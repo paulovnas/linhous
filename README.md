@@ -1,5 +1,3 @@
-### Contatos:
-
 <div>
   <a href="https://linkedin.com/in/paulo-vitor-nascimento-656b0145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href="https://www.facebook.com/nascimento.paulo.vitor/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0A81ED?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
